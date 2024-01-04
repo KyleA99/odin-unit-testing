@@ -1,4 +1,4 @@
-const capitalize = require("./capitalize-string");
+const capitalize = require("./capitalizeString");
 
 test("capitalize the first character of a string", () => {
   const inputString = "hello world";
